@@ -2,7 +2,8 @@
 
 ## 首頁
 
-![image](https://user-images.githubusercontent.com/108204224/219942856-80c2e371-a652-42cf-ae9c-f9d0f2f98731.png)
+![藝拍YiPai_-_Google_Chrome_2023_2_19_下午_07_07_33_AdobeExpress](https://user-images.githubusercontent.com/108204224/219944362-c8399031-1556-4782-88e6-09c3a7af5253.gif)
+
 
 ## 首頁-最新消息
 
