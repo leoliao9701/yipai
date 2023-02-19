@@ -8,4 +8,8 @@
 
 ![展覽主頁面](https://user-images.githubusercontent.com/108204224/219949271-c2d46e13-3379-4e3e-ab88-183e71d1b94a.png)
 
+## 展覽細節頁
+
+![展覽細節頁](https://user-images.githubusercontent.com/108204224/219949433-4dfb80a5-450f-4aaf-aa68-6414d85c6084.png)
+
 
