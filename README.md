@@ -1,5 +1,9 @@
 # yipai藝拍 藝術品拍賣網站專題
 
+## 使用技術
+
+![使用技術](https://user-images.githubusercontent.com/108204224/219951022-845cd924-6742-491b-985d-2763ae6f27b3.png)
+
 ## 首頁
 
 ![首頁](https://user-images.githubusercontent.com/108204224/219944609-3a2a46ae-c5a5-48a6-a18e-ba35a51bdec2.png)
@@ -39,5 +43,23 @@
 ## 藝術品細節頁
 
 ![藝術品細節面](https://user-images.githubusercontent.com/108204224/219950414-3a91542f-3819-49dc-9d76-8cd5f138e499.png)
+
+## 藝術家主頁
+
+![藝術家主頁面](https://user-images.githubusercontent.com/108204224/219950645-17189f16-a390-4a6b-89a7-44d495359a53.png)
+
+## 藝術家細節頁
+
+![藝術家細節面](https://user-images.githubusercontent.com/108204224/219951240-d4cc0729-00f1-46ff-873a-beb4780bc52f.png)
+
+## 會員相關頁面
+
+![會員相關頁面](https://user-images.githubusercontent.com/108204224/219951741-2f51d518-4bfe-4fc1-a646-560ab40016ba.png)
+
+## 購物車系統
+
+![cart](https://user-images.githubusercontent.com/108204224/219951951-faf8e557-5f4e-4fd2-ad7a-d949bd9074f3.png)
+
+以上圖片皆為學術用途 如有侵權請告知 謝謝!
 
 
